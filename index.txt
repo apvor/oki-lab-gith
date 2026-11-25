@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="uk"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Головна</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="index.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 9.0.8, nicepage.com">
+    
+    
+    
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800">
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "/",
+		"logo": "images/2026-11-25134651.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Головна">
+    <meta property="og:type" content="website">
+    <link rel="canonical" href="/">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="https://website6687758.nicepage.io/Головна.html?version=d53daa0a-a00b-1c65-4cd8-f3b1ef7d482d" data-home-page-title="Головна" data-path-to-root="./" data-include-products="false" class="u-body u-clearfix u-xl-mode" data-lang="ua"><header class="u-clearfix u-header u-header" id="header"><div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+        <a href="#" class="u-image u-logo u-image-1" data-image-width="752" data-image-height="750">
+          <img src="images/2026-11-25134651.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1" role="navigation" aria-label="Menu navigation">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-hamburger-link u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" tabindex="-1" aria-label="Open menu" aria-controls="91ac">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1" role="menubar"><li class="u-nav-item" role="none"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-nav-link-2" href="./" role="menuitem">Головна</a>
+</li><li class="u-nav-item" role="none"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-nav-link-2" href="Моя-команда.html" role="menuitem">Моя команда</a>
+</li><li class="u-nav-item" role="none"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-nav-link-2" href="Завдання.html" role="menuitem">Завдання</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse" id="91ac" role="region" aria-label="Menu panel">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close" tabindex="-1" aria-label="Close menu"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./">Головна</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Моя-команда.html">Моя команда</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Завдання.html">Завдання</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="block-1">
+      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
+        <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <p class="u-text u-text-default u-text-1">Я Мадрига Петро, студент ТНТУ, група СІ-11, 1 курс<br>Люблю грати комп'ютерні ігри, і грати на електрогітарі
+                  </p>
+                  <h3 class="u-text u-text-default u-text-2">Соціальні мережі </h3>
+                  <div class="u-social-icons u-social-icons-1">
+                    <a class="u-social-url" title="facebook" target="_blank" href="https://facebook.com/name"><span class="u-icon u-social-facebook u-social-icon u-text-black u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-b9dd"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-b9dd"><path fill="currentColor" d="M75.5,28.8H65.4c-1.5,0-4,0.9-4,4.3v9.4h13.9l-1.5,15.8H61.4v45.1H42.8V58.3h-8.8V42.4h8.8V32.2 c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
+                    </a>
+                    <a class="u-social-url" title="twitter" target="_blank" href="https://twitter.com/name"><span class="u-icon u-social-icon u-social-twitter u-text-black u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2" style=""><use xlink:href="#svg-ee74"></use></svg><svg class="u-svg-content" viewBox="0 0 112.2 112.2" x="0px" y="0px" id="svg-ee74"><path d="M67.1,49.1L98.6,16h-12L62,42L43.2,16H11l32.8,45.2L11,96h11.6l26.3-27.7L69.1,96H101L67.1,49.1z M55,61.9l-5.1-7L27.5,24.4  h11.4l17.3,23.8l5.1,7.1l23.4,32.2H73.8L55,61.9z"></path></svg></span>
+                    </a>
+                    <a class="u-social-url" title="instagram" target="_blank" href="https://instagram.com/name"><span class="u-icon u-social-icon u-social-instagram u-text-black u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-defd"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-defd"><path fill="currentColor" d="M55.9,32.9c-12.8,0-23.2,10.4-23.2,23.2s10.4,23.2,23.2,23.2s23.2-10.4,23.2-23.2S68.7,32.9,55.9,32.9z   M55.9,69.4c-7.4,0-13.3-6-13.3-13.3c-0.1-7.4,6-13.3,13.3-13.3s13.3,6,13.3,13.3C69.3,63.5,63.3,69.4,55.9,69.4z"></path><path fill="currentColor" d="M78.2,11H33.5C21,11,10.8,21.3,10.8,33.7v44.7c0,12.6,10.2,22.8,22.7,22.8h44.7c12.6,0,22.7-10.2,22.7-22.7  V33.7C100.8,21.1,90.6,11,78.2,11z M91,78.4c0,7.1-5.8,12.8-12.8,12.8H33.5c-7.1,0-12.8-5.8-12.8-12.8V33.7  c0-7.1,5.8-12.8,12.8-12.8h44.7c7.1,0,12.8,5.8,12.8,12.8V78.4z"></path></svg></span>
+                    </a>
+                    <a class="u-social-url" target="_blank" data-type="Spotify" title="Spotify" href="https://open.spotify.com/user/312ycprtschmx5ans4ea3llrpu74"><span class="u-icon u-social-icon u-social-spotify u-text-black u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-de99"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-de99"><circle fill="#00D95F" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFE" d="M94.5,41.9c-1.9-1.1-3.8-2.1-5.8-3c-2-0.9-4-1.7-6.1-2.4c-5.1-1.7-10.2-3-15.4-3.9  c-5.2-0.9-10.5-1.3-15.8-1.5c-2.2-0.1-4.3-0.1-6.5,0c-2.2,0.1-4.3,0.2-6.5,0.4c-2.1,0.2-4.1,0.4-6.1,0.7c-2,0.3-4,0.7-6,1.1  c-0.8,0.2-1.6,0.4-2.4,0.6c-0.8,0.2-1.6,0.5-2.4,0.7c-1.3,0.4-2.4,1.3-3.1,2.3c-0.7,1.1-1.1,2.4-1.1,3.7c0,1.4,0.5,2.7,1.3,3.7  c0.8,1,1.9,1.8,3.2,2.2c0.6,0.2,1.2,0.3,1.8,0.2c0.6,0,1.2-0.1,1.8-0.2l0.6-0.2c1.4-0.4,2.8-0.7,4.2-1c2.2-0.5,4.3-0.8,6.5-1.1  c2.2-0.3,4.4-0.4,6.6-0.6c1.9-0.1,3.9-0.1,5.8-0.1c1.9,0,3.8,0.1,5.8,0.2c1.9,0.1,3.7,0.3,5.6,0.5c1.8,0.2,3.6,0.5,5.5,0.8  c2.6,0.5,5.2,1,7.8,1.7c2.5,0.7,5.1,1.5,7.5,2.5c1.3,0.5,2.5,1,3.6,1.6c1.2,0.6,2.4,1.2,3.5,1.9c1,0.6,2.1,0.8,3.2,0.9  c1.1,0,2.2-0.3,3.2-0.8c0.9-0.6,1.8-1.3,2.3-2.3c0.5-0.9,0.8-2,0.8-3.1l0-0.2c0,0,0-0.2,0-0.3c0-0.3-0.1-0.6-0.1-0.9  c-0.2-0.9-0.6-1.7-1.1-2.4C95.9,42.9,95.2,42.3,94.5,41.9z"></path><path fill="#FFFFFE" d="M73,54c-4.7-1.5-9.5-2.6-14.4-3.3c-4.9-0.7-9.8-0.9-14.7-0.7c-2.3,0.1-4.6,0.3-6.9,0.5  c-2.3,0.3-4.5,0.7-6.8,1.2c-0.9,0.2-1.9,0.4-2.8,0.7c-0.9,0.2-1.8,0.5-2.7,0.8c-1.1,0.3-2,1-2.7,1.9c-0.7,0.9-1,2-1.1,3.1  c0,1.1,0.3,2.2,0.9,3.1c0.6,0.9,1.5,1.6,2.5,2.1c0.6,0.3,1.3,0.4,2,0.4c0.6,0,1.3-0.1,1.9-0.3c3-0.9,6-1.5,9-1.9  c3.2-0.5,6.5-0.7,9.7-0.7c2.5,0,4.9,0.1,7.3,0.3c2.4,0.2,4.7,0.5,7,1c3,0.6,5.9,1.3,8.8,2.2c2.9,0.9,5.7,2.1,8.4,3.5  c0.9,0.4,1.7,0.9,2.6,1.4l0.9,0.5c1.3,0.7,2.8,0.9,4.1,0.6c1.3-0.3,2.5-1.2,3.3-2.4c0.7-1.2,1-2.7,0.6-4.2c-0.3-1.3-1.1-2.5-2.4-3.3  l0,0c-0.2-0.1-0.5-0.3-0.6-0.4c-2.2-1.3-4.4-2.4-6.7-3.5C77.8,55.6,75.4,54.7,73,54z"></path><path fill="#FFFFFE" d="M58.7,68.6c-3.6-0.5-7.2-0.8-10.9-0.9h-0.1c-0.8,0-1.5,0.1-2.3,0.1c-1.7,0.1-3.5,0.2-5.1,0.3  c-2.2,0.2-4.4,0.5-6.6,0.8c-2.2,0.4-4.4,0.8-6.5,1.3c-0.2,0-0.3,0.1-0.6,0.1h0c-0.2,0.1-0.4,0.1-0.6,0.2c-1,0.4-1.8,1.1-2.3,2.1  c-0.5,0.9-0.7,2-0.5,3.1c0.2,1.1,0.8,2,1.6,2.6c0.8,0.6,1.8,1,2.9,1c0.3,0,0.7,0,1-0.1c0.3,0,0.6-0.1,0.9-0.2c2.6-0.6,5.2-1,7.8-1.4  c2.6-0.4,5.2-0.6,7.9-0.7c2-0.1,4.1-0.1,6.1,0c2,0.1,4,0.3,6,0.6c3.3,0.5,6.4,1.3,9.5,2.3c3.1,1.1,6,2.4,8.8,4.1l0,0l0.1,0.1  c0.3,0.2,0.6,0.3,0.9,0.5c1.1,0.5,2.2,0.5,3.2,0.2c1-0.3,1.9-1,2.5-2c0.6-1,0.8-2.2,0.6-3.2c-0.2-1.1-0.8-2.1-1.7-2.8  c-0.3-0.2-0.6-0.4-0.9-0.6l-0.1-0.1l0,0c-1.7-1-3.5-2-5.4-2.8c-1.8-0.8-3.7-1.6-5.7-2.2C65.8,70,62.3,69.2,58.7,68.6z"></path></svg></span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-xl u-container-layout-2">
+                  <img class="u-image u-image-default u-image-1" src="images/2026-07-03205934.png" alt="" data-image-width="295" data-image-height="397">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    
+    <footer class="u-align-center u-clearfix u-container-align-center u-footer u-grey-80 u-footer" id="footer"><div class="u-clearfix u-sheet u-sheet-1"></div></footer>
+    <section class="u-backlink u-clearfix u-grey-80"> This website was created with <a href="https://nicepage.com">Nicepage</a>
+    </section>
+  
+</body></html>
